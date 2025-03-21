@@ -53,13 +53,18 @@ This dataset was created by combining different datasets already available indep
 - Long Beach VA: 200 observations
 - Stalog (Heart) Data Set: 270 observations
 
-- ***creators***:
+***creators***:
 
 Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+
 University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+
 University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+
 V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
-- ***Donor***:
+
+***Donor***:
+
 David W. Aha (aha '@' ics.uci.edu) (714) 856-8779
 
 ## ***Contributing***
