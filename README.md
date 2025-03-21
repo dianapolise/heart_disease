@@ -4,7 +4,7 @@ This project implements a feedforward *Neural Network* with four layers, compris
 
 ## ***Features***
 
-Binary Classification: Implements a neural network for distinguishing between two categories (e.g., benign and malignant).
+Binary Classification: Implements a neural network for distinguishing between two categories (e.g., Healthy or Heart disease).
 
 Data Preprocessing: Handles and preprocesses data efficiently using pandas.
 
