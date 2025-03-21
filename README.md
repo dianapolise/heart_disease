@@ -1,6 +1,6 @@
 # *Heart Disease*
 
-This project implements a feedforward *Neural Network* with four layers, comprising a total of 35 neurons, alongside a Logistic Regression model utilizing *Scikit-Learn* to predict breast cancer. Leveraging a built-in dataset, the models achieve a prediction accuracy of approximately 85–88% on both training and test sets, showcasing their reliable performance in binary classification tasks.
+This project implements a feedforward *Neural Network* with four layers, comprising a total of 35 neurons, alongside a Logistic Regression model utilizing *Scikit-Learn* to predict heart disease. Leveraging a built-in dataset, the models achieve a prediction accuracy of approximately 85–88% on both training and test sets, showcasing their reliable performance in binary classification tasks.
 
 ## ***Features***
 
@@ -20,8 +20,8 @@ To run this project, you’ll need:
 
 **Install the required dependencies using pip:**
 
-| *pip install numpy pandas seaborn scikit-learn tensorflow* |
-|-----------------------------|
+```bash
+pip install numpy pandas seaborn scikit-learn tensorflow
 
 ## ***Usage***
 
@@ -39,7 +39,7 @@ Run the notebook to:
 
 - Visualize the results.
 
-Outputs include metrics such as prediction accuracy (~98%) and insights from visualized relationships in the data.
+Outputs include metrics such as prediction accuracy (~85-88%) and insights from visualized relationships in the data.
 
 ## Dataset
 
