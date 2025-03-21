@@ -1,10 +1,8 @@
 # *Heart Disease*
 
-# ***Neural Network for Breast Cancer Prediction***
-
 This project implements a feedforward *Neural Network* with four layers, comprising a total of 35 neurons, alongside a Logistic Regression model utilizing *Scikit-Learn* to predict breast cancer. Leveraging a built-in dataset, the models achieve a prediction accuracy of approximately 85–88% on both training and test sets, showcasing their reliable performance in binary classification tasks.
 
-***Features***
+## ***Features***
 
 Binary Classification: Implements a neural network for distinguishing between two categories (e.g., benign and malignant).
 
@@ -12,7 +10,7 @@ Data Preprocessing: Handles and preprocesses data efficiently using pandas.
 
 Data Visualization: Explores relationships and correlations in the dataset with seaborn.
 
-***Installation***
+## ***Installation***
 
 To run this project, you’ll need:
 
@@ -25,7 +23,7 @@ To run this project, you’ll need:
 | *pip install numpy pandas seaborn scikit-learn tensorflow* |
 |-----------------------------|
 
-***Usage***
+## ***Usage***
 
 Clone this repository or download the notebook.
 
@@ -64,10 +62,10 @@ V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano,
 - ***Donor***:
 David W. Aha (aha '@' ics.uci.edu) (714) 856-8779
 
-***Contributing***
+## ***Contributing***
 
 For contributions or suggestions, feel free to reach out via the email provided at the end of the notebook.
 
-***License***
+## ***License***
 
 This project is licensed under the CC0 (Creative Commons Zero) license. It is open-source and free to use, modify, and share.
