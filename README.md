@@ -21,7 +21,7 @@ To run this project, you’ll need:
 **Install the required dependencies using pip:**
 
 ```bash
-pip install numpy pandas seaborn scikit-learn tensorflow
+pip install numpy pandas seaborn scikit-learn tensorflow```
 
 ## ***Usage***
 
