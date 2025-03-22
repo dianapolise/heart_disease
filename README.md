@@ -1,6 +1,6 @@
 # *Heart Disease*
 
-This project implements a feedforward *Neural Network* with four layers, comprising a total of 35 neurons, alongside a *Logistic Regression* and *Linear Regression* model utilizing *Scikit-Learn* to predict heart disease. Leveraging a built-in dataset, the *Neural Network* and *Logistic Regression* models achieve a prediction accuracy of approximately 85–88% on both training and test sets, showcasing their reliable performance in binary classification tasks. *linear Regression* model achieve a prediction accuracy of approximately 48%.
+This project implements a feedforward *Neural Network* with four layers, comprising a total of 35 neurons, alongside a *Logistic Regression* and *Linear Regression* model utilizing *Scikit-Learn* to predict heart disease. Leveraging a built-in dataset, the *Neural Network* and *Logistic Regression* models achieve a prediction accuracy of approximately 85–88% on both training and test sets, showcasing their reliable performance in binary classification tasks. *Linear Regression* model achieve a prediction accuracy of approximately 48%.
 
 ## ***Features***
 
