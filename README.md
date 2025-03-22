@@ -1,10 +1,10 @@
 # *Heart Disease*
 
-This project implements a feedforward *Neural Network* with four layers, comprising a total of 35 neurons, alongside a Logistic Regression model utilizing *Scikit-Learn* to predict heart disease. Leveraging a built-in dataset, the models achieve a prediction accuracy of approximately 85–88% on both training and test sets, showcasing their reliable performance in binary classification tasks.
+This project implements a feedforward *Neural Network* with four layers, comprising a total of 35 neurons, alongside a *Logistic Regression* and *Linear Regression* model utilizing *Scikit-Learn* to predict heart disease. Leveraging a built-in dataset, the *Neural Network* and *Logistic Regression* models achieve a prediction accuracy of approximately 85–88% on both training and test sets, showcasing their reliable performance in binary classification tasks. *linear Regression* model achieve a prediction accuracy of approximately 48%.
 
 ## ***Features***
 
-Binary Classification: Implements a neural network for distinguishing between two categories (e.g., Healthy or Heart disease).
+Binary Classification: Implements 3 different model for distinguishing between two categories (e.g., Healthy or Heart disease).
 
 Data Preprocessing: Handles and preprocesses data efficiently using pandas.
 
