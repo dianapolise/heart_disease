@@ -1,10 +1,12 @@
 # *Heart Disease*
 
-This project implements a feedforward *Neural Network* with four layers, comprising a total of 35 neurons, alongside a *Logistic Regression* and *Linear Regression* model utilizing *Scikit-Learn* to predict heart disease. Leveraging a built-in dataset, the *Neural Network* and *Logistic Regression* models achieve a prediction accuracy of approximately 85–88% on both training and test sets, showcasing their reliable performance in binary classification tasks. *Linear Regression* model achieve a prediction accuracy of approximately 48%.
+This document leverages Seaborn, Pandas, NumPy, Scikit-Learn, XGBoost, and TensorFlow to conduct analytical investigations on a cardiovascular diseases dataset, aiming to evaluate the effects of various factors on disease outcomes. The dataset comprises key attributes from approximately 900 patients, including age, sex, resting blood pressure, fasting blood sugar, and other relevant variables.
+
+Initially, four distinct Neural Network architectures were developed and evaluated to identify the model that best fits the dataset. The selected model was subsequently applied to the test set for validation. Additionally, Linear Regression and Logistic Regression models were trained using Scikit-Learn. Further analysis involved the implementation of a Decision Tree, a Random Forest, and an XGBoost model to ultimately determine the most effective approach for predicting cardiovascular conditions in future patients.
 
 ## ***Features***
 
-Binary Classification: Implements 3 different model for distinguishing between two categories (e.g., Healthy or Heart disease).
+Binary Classification: Implements 5 different model for distinguishing between two categories (e.g., Healthy or Heart disease).
 
 Data Preprocessing: Handles and preprocesses data efficiently using pandas.
 
@@ -16,12 +18,12 @@ To run this project, you’ll need:
 
 - Python 3.12
 
-- Libraries: numpy, pandas, seaborn, scikit-learn, tensorflow
+- Libraries: numpy, pandas, seaborn, scikit-learn, tensorflow, xgboost
 
 **Install the required dependencies using pip:**
 
 ```bash
-pip install numpy pandas seaborn scikit-learn tensorflow
+pip install numpy pandas seaborn scikit-learn tensorflow xgboost
 ```
 
 ## ***Usage***
