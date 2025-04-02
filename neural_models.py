@@ -1,4 +1,4 @@
-""" Built-in function to define 4 different neural network structuers to find best fitted model """
+""" Built-in function to define 4 different neural network architectures to find best fitted model """
 
 import tensorflow as tf
 from tensorflow.keras.layers import Dense
