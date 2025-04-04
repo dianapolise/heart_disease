@@ -1,7 +1,6 @@
-# *Heart Disease*
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dianapolise/heart_disease/blob/main/heart_disease.ipynb)
 
+# *Heart Disease*
 
 This document leverages Seaborn, Pandas, NumPy, Scikit-Learn, XGBoost, and TensorFlow to conduct analytical investigations on a cardiovascular diseases dataset, aiming to evaluate the effects of various factors on disease outcomes. The dataset comprises key attributes from approximately 900 patients, including age, sex, resting blood pressure, fasting blood sugar, and other relevant variables.
 
