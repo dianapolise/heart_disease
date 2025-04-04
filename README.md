@@ -1,5 +1,8 @@
 # *Heart Disease*
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dianapolise/heart_disease/blob/main/heart_disease.ipynb)
+
+
 This document leverages Seaborn, Pandas, NumPy, Scikit-Learn, XGBoost, and TensorFlow to conduct analytical investigations on a cardiovascular diseases dataset, aiming to evaluate the effects of various factors on disease outcomes. The dataset comprises key attributes from approximately 900 patients, including age, sex, resting blood pressure, fasting blood sugar, and other relevant variables.
 
 Initially, four distinct Neural Network architectures were developed and evaluated to identify the model that best fits the dataset. The selected model was subsequently applied to the test set for validation. Additionally, Linear Regression and Logistic Regression models were trained using Scikit-Learn. Further analysis involved the implementation of a Decision Tree, a Random Forest, and an XGBoost model to ultimately determine the most effective approach for predicting cardiovascular conditions in future patients.
